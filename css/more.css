@@ -1,0 +1,40 @@
+/* .important{
+    color: red;
+} */
+
+.titre{
+    text-align: left;
+}
+
+.text_changement_pneus{
+    text-align: justify;
+    color: white;
+}
+
+.text_crevation_motos{
+    text-align: center;
+    color: #000000;
+}
+
+
+/* Changement de peus à domicile */
+.image_changement{
+    width: 100%;
+}
+
+.card{
+    margin-bottom: 10px;
+}
+
+.card-marque-moto{
+    width: 100%;
+}
+
+.faq-item{
+    text-align: left;
+    list-style: none;
+}
+
+.faq-item::before{
+    content: "> ";
+}
